@@ -1,0 +1,5 @@
+{
+  "name": "ember-night-theme",
+  "owner": { "name": "melvxnhe" },
+  "plugins": [{ "name": "ember-night", "source": "./" }]
+}
