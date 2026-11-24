@@ -13,7 +13,7 @@ editors do not draw themes.
 Type this at the prompt of a Claude Code session, answer `y` to add the marketplace, then pick a scope:
 
 ```
-/plugin install ember-night --marketplace melvxnhe/ember-night-theme
+/plugin install ember-night --marketplace melvindhbw/ember-night-theme
 ```
 
 The theme is set when a session starts, so open a new chat after installing.
